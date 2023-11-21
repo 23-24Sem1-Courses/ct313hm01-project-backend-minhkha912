@@ -4,15 +4,14 @@
 
 Học kỳ 1, Năm học 2023-2024
 
-**MSSV 1** : 
+**MSSV 1** : B2014660
 
-**Họ tên SV 1**:
+**Họ tên SV 1**: Nguyễn Minh Kha
 
-**MSSV 2**:
+**MSSV 2**: B2014974
 
-**Họ tên SV 2**:
+**Họ tên SV 2**: Nguyễn Thị Huỳnh Giao
 
-**Lớp học phần**:
+**Lớp học phần**: M01
 
-**Tên dự án**:
-
+**Tên dự án**: E-books store
