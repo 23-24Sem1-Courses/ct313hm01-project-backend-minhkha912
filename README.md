@@ -14,4 +14,4 @@ Học kỳ 1, Năm học 2023-2024
 
 **Lớp học phần**: M01
 
-**Tên dự án**: E-books store
+**Tên dự án**: Ebook
